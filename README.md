@@ -1,1 +1,1 @@
-# Execução do Lab1 (agendamento forçado)
+# Execução do Lab1

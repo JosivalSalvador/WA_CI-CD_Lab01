@@ -1,1 +1,1 @@
-# Execução do Lab1 (todas as partes)
+# Execução do Lab1

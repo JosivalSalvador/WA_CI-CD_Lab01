@@ -1,4 +1,4 @@
-name: Hello Flow v2
+name: Hello Flow
 on:
   schedule:
     - cron: '*/5 * * * *'
